@@ -22,4 +22,13 @@ object Form1: TForm1
     TabOrder = 0
     OnClick = Button1Click
   end
+  object Button2: TButton
+    Left = 240
+    Top = 144
+    Width = 121
+    Height = 57
+    Caption = 'Button2'
+    TabOrder = 1
+    OnClick = Button2Click
+  end
 end
